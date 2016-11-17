@@ -1,0 +1,13 @@
+INFO	?	main	2016-11-16T01:06:44.310Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2016-11-16T01:06:44.666Z	org.javacs.JavaLanguageServer#doLint	Lint /home/dman/Documents/apache-cxf-jax-ws-demo/src/main/java/com/pluralsight/cxfdemo/HelloWorld.java
+INFO	?	main	2016-11-16T01:06:44.693Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /tmp/classpath3857112185192388185.txt
+INFO	?	main	2016-11-16T01:06:49.984Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-11-16T01:06:49.989Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	InitialIndex	2016-11-16T01:06:50.610Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Documents/apache-cxf-jax-ws-demo/src/test/java/com/pluralsight/cxfdemo/HelloWorldImplTest.java
+INFO	?	InitialIndex	2016-11-16T01:06:50.673Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Documents/apache-cxf-jax-ws-demo/src/main/java/com/pluralsight/cxfdemo/HelloWorld.java
+INFO	?	InitialIndex	2016-11-16T01:06:50.675Z	org.javacs.SymbolIndex$1#parseAll	Index /home/dman/Documents/apache-cxf-jax-ws-demo/src/main/java/com/pluralsight/cxfdemo/HelloWorldImpl.java
+INFO	?	main	2016-11-16T01:07:02.115Z	org.javacs.JavaLanguageServer#doLint	Lint /home/dman/Documents/apache-cxf-jax-ws-demo/src/test/java/com/pluralsight/cxfdemo/HelloWorldImplTest.java
+INFO	?	main	2016-11-16T01:07:02.117Z	org.javacs.JavaLanguageServer#buildClassPath	Emit classpath to /tmp/classpath2362346925786971637.txt
+INFO	?	main	2016-11-16T01:07:05.454Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default source directory src/main/java
+INFO	?	main	2016-11-16T01:07:05.456Z	org.javacs.JavaLanguageServer#sourceDirectories	Use default test directory src/test/java
+INFO	?	main	2016-11-16T01:08:31.587Z	org.javacs.Main#run	Connection closed
